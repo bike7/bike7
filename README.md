@@ -4,7 +4,7 @@ I’ve been working in **software testing and automation for over 7 years**.
 I started with manual testing and now design and maintain **automated testing frameworks**, mainly using **Playwright** and **TypeScript**.  
 
 I enjoy bringing order to chaotic test setups and building automation that genuinely **supports the team**.  
-I’m also interested in **CI/CD integration, security, performance, and accessibility testing**.  
+I’m also interested in **CI/CD integration, security, performance and accessibility testing**.  
 
 I’m looking for a **long-term, fully remote project**.
 
