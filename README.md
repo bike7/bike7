@@ -1,35 +1,58 @@
+## 👋 About Me
+
+I’ve been working in **software testing and automation for over 7 years**.  
+I started with manual testing and now design and maintain **automated testing frameworks**, mainly using **Playwright** and **TypeScript**.  
+
+I enjoy bringing order to chaotic test setups and building automation that genuinely **supports the team**.  
+I’m also interested in **CI/CD integration, security, performance, and accessibility testing**.  
+
+I’m looking for a **long-term, fully remote project**.
+
+---
 
 ## 🧪 What I do
-- Build from scratch and refactor existing test automation frameworks
+- Perform manual testing and automated testing (UI and API)
 - Migrate legacy automation (e.g. Selenium + Java → Playwright + TypeScript)
-- Create stable, readable and maintainable tests
-- Support teams with CI/CD integration (Github Actions)
-- Advocate for quality beyond just test cases
+- Create stable, readable and maintainable test suites
+- Build from scratch and refactor existing test automation frameworks
+- Design, develop, maintain modern test automation frameworks
+- Implement test reporting using Allure, Playwright built-in reporter or a tool of your choice
+- Integrate and maintain CI/CD pipelines (Github Actions)
+- Collaborate with international, fully remote teams
+- Advocate for quality as a team responsibility, not just test cases
 
 ---
 
 ## 🛠 Tech stack
-- **Automation:** Playwright, Selenium
-- **Languages:** TypeScript, Java
-- **Testing:** E2E, API, regression, exploration
-- **CI/CD:** GitHub Actions, Jenkins, TeamCity
+- **Testing:** UI & API automation, E2E, integration, regression, exploration, manual testing
+- **Programming Languages:** Java, TypeScript, JavaScript
+- **UI & API Test Automation:** Playwright, Selenium, AccelQ, Postman, RestAssured, SQL, Swagger
+- **AI & Accessibility:** Github Copilot, Playwright MCP, Axe, Lighthouse
+- **IDE & Code Quality:** VSCode, IntelliJ IDEA, Eclipse, ESLint, Prettier, Husky, Dotenv
+- **Plugins & Tools:** Faker, Jackson, Lombok, Hamcrest, AssertJ, TestNG, jUnit, Maven, Gradle
+- **Version Control:** GIT, GitHub, GitLab, Bitbucket
+- **CI/CD:** Jenkins, TeamCity, GitHub Actions
+- **Reporting & BDD*:* Allure, Cucumber, Gherkin
+- **Issue Tracking**: Jira, Confluence, Pivotal Tracker, IBM Rational Change
+- **Test Management:** Xray, TestRail, TestArena, IBM Rational Doors, HP ALM
 - **Methodologies:** Agile, Scrum, SAFe, Waterfall
-
----
-
-## 🌱 Currently growing in
-- Performance testing
-- Security testing
-- Accessibility testing (a11y)
+- **Languages:** English (professional proficiency), Polish (native proficiency)
 
 ---
 
 ## 📌 Selected work
 🔹 **gad-tests**  
-Test automation framework for UI and API testing of the GAD application using Playwright and TypeScript. The framework follows Page Object Model and Arrange–Act–Assert patterns. It uses Faker for realistic test data generation, enforces high code quality through ESLint, Husky and Dotenv and includes a GitHub Actions CI/CD pipeline.
+Modern Test automation framework for UI and API testing of the GAD application using Playwright and TypeScript. The framework follows Page Object Model and Arrange–Act–Assert patterns, uses fixtures and method chaining for readability. It generates realistic test data with Faker, enforces high code quality through ESLint, Husky and Dotenv and includes a GitHub Actions CI/CD pipeline.
 
 🔹 **gad-mcp-copilot**  
 Experimental test automation framework focused on exploring AI-assisted automation. The framework uses GitHub Copilot and Playwright MCP, includes accessibility and performance audits with Axe and Lighthouse, leverages Playwright’s built-in visual testing
+
+---
+
+## 🌱 Currently growing in
+- Accessibility testing (a11y)
+- Performance testing
+- Security testing
 
 ---
 
