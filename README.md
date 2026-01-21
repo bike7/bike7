@@ -1,3 +1,4 @@
+![Banner](assets/banner.png)
 ## 👋 About Me
 
 I’ve been working in **software testing and automation for over 7 years**.  
