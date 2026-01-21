@@ -32,7 +32,7 @@ I’m looking for a **long-term, fully remote project**.
 - **Plugins & Tools:** Faker, Jackson, Lombok, Hamcrest, AssertJ, TestNG, jUnit, Maven, Gradle
 - **Version Control:** GIT, GitHub, GitLab, Bitbucket
 - **CI/CD:** Jenkins, TeamCity, GitHub Actions
-- **Reporting & BDD*:* Allure, Cucumber, Gherkin
+- **Reporting & BDD:** Allure, Cucumber, Gherkin
 - **Issue Tracking**: Jira, Confluence, Pivotal Tracker, IBM Rational Change
 - **Test Management:** Xray, TestRail, TestArena, IBM Rational Doors, HP ALM
 - **Methodologies:** Agile, Scrum, SAFe, Waterfall
