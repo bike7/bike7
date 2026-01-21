@@ -23,6 +23,13 @@ I’m looking for a **long-term, fully remote project**.
 
 ---
 
+## 🌱 Currently growing in
+- Accessibility testing (a11y)
+- Performance testing
+- Security testing
+
+---
+
 ## 🛠 Tech stack
 - **Testing:** UI & API automation, E2E, integration, regression, exploration, manual testing
 - **Programming Languages:** Java, TypeScript, JavaScript
@@ -40,19 +47,25 @@ I’m looking for a **long-term, fully remote project**.
 
 ---
 
+## 📝 My LinkedIn Articles
+
+- [Mastering the ‘Test This!’ Question in QA Interviews](https://www.linkedin.com/pulse/mastering-test-question-qa-interviews-katarzyna-jarosz-3fkpf/?trackingId=eaha4W%2FAQ%2BetEy2JMiD7jg%3D%3D)  
+"Test THIS!" is one of the most popular tasks that appear during a QA job interview. I’ve encountered it personally as well. The “this” can be any object within the recruiter’s view: a pen, a whiteboard eraser, a coffee mug – the possibilities are endless.
+
+- [Why Salesforce Test Automation Is Harder Than It Looks?](https://www.linkedin.com/pulse/why-salesforce-test-automation-harder-than-looks-katarzyna-jarosz-9tawf/?trackingId=eaha4W%2FAQ%2BetEy2JMiD7jg%3D%3D)  
+On paper, automating Salesforce tests sounds like any other web automation project - log in, click through some workflows, verify results. In reality, it’s anything but simple.
+
+- [Neurodiverse Testers: How Different Minds Elevate Software Quality](https://www.linkedin.com/pulse/neurodiverse-testers-how-different-minds-elevate-software-jarosz-vonvf/?trackingId=eaha4W%2FAQ%2BetEy2JMiD7jg%3D%3D)  
+ Let’s talk about how neurodiversity transforms IT teams and software testing. When people with different thinking styles collaborate, the outcome is often richer, more innovative, and more resilient than what a uniform team can achieve.
+
+---
+
 ## 📌 Selected work
 🔹 **gad-tests**  
 Modern Test automation framework for UI and API testing of the GAD application using Playwright and TypeScript. The framework follows Page Object Model and Arrange–Act–Assert patterns, uses fixtures and method chaining for readability. It generates realistic test data with Faker, enforces high code quality through ESLint, Husky and Dotenv and includes a GitHub Actions CI/CD pipeline.
 
 🔹 **gad-mcp-copilot**  
 Experimental test automation framework focused on exploring AI-assisted automation. The framework uses GitHub Copilot and Playwright MCP, includes accessibility and performance audits with Axe and Lighthouse, leverages Playwright’s built-in visual testing
-
----
-
-## 🌱 Currently growing in
-- Accessibility testing (a11y)
-- Performance testing
-- Security testing
 
 ---
 
