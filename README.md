@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasia</h1>
-<h3 align="center">A passionate test automation engineer from Polanf</h3>
+<h3 align="center">A passionate test automation engineer from Poland</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
