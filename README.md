@@ -62,16 +62,16 @@ On paper, automating Salesforce tests sounds like any other web automation proje
 ---
 
 ## 📌 Selected work
-🔹 **gad-tests**  
+🔹 **[gad-tests](https://github.com/bike7/gad-tests)**  
 Modern Test automation framework for UI and API testing of the GAD application using Playwright and TypeScript. The framework follows Page Object Model and Arrange–Act–Assert patterns, uses fixtures and method chaining for readability. It generates realistic test data with Faker, enforces high code quality through ESLint, Husky and Dotenv and includes a GitHub Actions CI/CD pipeline.
 
-🔹 **gad-mcp-copilot**  
+🔹 **[gad-mcp-copilot](https://github.com/bike7/gad-mcp-copilot)**  
 Experimental test automation framework focused on exploring AI-assisted automation. The framework uses GitHub Copilot and Playwright MCP, includes accessibility and performance audits with Axe and Lighthouse, leverages Playwright’s built-in visual testing
 
 ---
 
 ## 📫 Let’s connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/k-jarosz/)
+- 💼 [linkedin.com/in/k-jarosz/](https://www.linkedin.com/in/k-jarosz/)
 - 📧 k.jarosz.interview@gmail.com |
 - 🌍 Open to long-term, remote projects
 
