@@ -1,10 +1,43 @@
-<h1 align="center">Hi 👋, I'm Kasia</h1>
-<h3 align="center">A passionate test automation engineer from Poland</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/k-jarosz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k-jarosz" height="30" width="40" /></a>
-</p>
+## 🧪 What I do
+- Build from scratch and refactor existing test automation frameworks
+- Migrate legacy automation (e.g. Selenium + Java → Playwright + TypeScript)
+- Create stable, readable and maintainable tests
+- Support teams with CI/CD integration (Github Actions)
+- Advocate for quality beyond just test cases
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🛠 Tech stack
+- **Automation:** Playwright, Selenium
+- **Languages:** TypeScript, Java
+- **Testing:** E2E, API, regression, exploration
+- **CI/CD:** GitHub Actions, Jenkins, TeamCity
+- **Methodologies:** Agile, Scrum, SAFe, Waterfall
+
+---
+
+## 🌱 Currently growing in
+- Performance testing
+- Security testing
+- Accessibility testing (a11y)
+
+---
+
+## 📌 Selected work
+🔹 **gad-tests**  
+Test automation framework for UI and API testing of the GAD application using Playwright and TypeScript. The framework follows Page Object Model and Arrange–Act–Assert patterns. It uses Faker for realistic test data generation, enforces high code quality through ESLint, Husky and Dotenv and includes a GitHub Actions CI/CD pipeline.
+
+🔹 **gad-mcp-copilot**  
+Experimental test automation framework focused on exploring AI-assisted automation. The framework uses GitHub Copilot and Playwright MCP, includes accessibility and performance audits with Axe and Lighthouse, leverages Playwright’s built-in visual testing
+
+---
+
+## 📫 Let’s connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/k-jarosz/)
+- 📧 k.jarosz.interview@gmail.com |
+- 🌍 Open to long-term, remote projects
+
+---
+
+✨ *I believe good automation reduces chaos instead of creating it.*
