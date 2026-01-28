@@ -75,11 +75,18 @@ Link to the report: 🎭[Playwright Report](https://bike7.github.io/gad-tests/)
 
 Experimental test automation framework focused on exploring AI-assisted automation. The framework uses GitHub Copilot and Playwright MCP, includes accessibility and performance audits with Axe and Lighthouse, leverages Playwright’s built-in visual testing
 
-[![Playwright CI](https://github.com/bike7/gad-mcp-copilot/actions/workflows/playwright.yml/badge.svg)](https://github.com/bike7/gad-mcp-copilot/actions/workflows/playwright.yml)
+[![Functional tests](https://github.com/bike7/gad-mcp-copilot/actions/workflows/functional_workflow.yml/badge.svg)](https://github.com/bike7/gad-mcp-copilot/actions/workflows/functional_workflow.yml)
 
 Links to reports:
-🎭[ Playwright report ](https://bike7.github.io/gad-mcp-copilot/playwright/)
+🎭[ Playwright report ](https://bike7.github.io/gad-mcp-copilot/playwright/functional)
 📄[ Allure Report ](https://bike7.github.io/gad-mcp-copilot/allure/)
+
+[![Nonfunctional tests](https://github.com/bike7/gad-mcp-copilot/actions/workflows/nonfunctional_workflow.yml/badge.svg)](https://github.com/bike7/gad-mcp-copilot/actions/workflows/nonfunctional_workflow.yml)
+
+Links to reports:
+🎭[ Playwright report ](https://bike7.github.io/gad-mcp-copilot/playwright/nonfunctional)
+🪓[ Axe Accessibility Report ](https://bike7.github.io/gad-mcp-copilot/accessibility/)
+🗼[ Google Lighthouse Accessibility/Performance Report ](https://bike7.github.io/gad-mcp-copilot/lighthouse/)
 
 ---
 
