@@ -71,6 +71,8 @@ Modern Test automation framework for UI and API testing of the GAD application u
 
 Link to the report: 🎭[Playwright Report](https://bike7.github.io/gad-tests/)
 
+---
+
 🔹 **[gad-mcp-copilot](https://github.com/bike7/gad-mcp-copilot)**
 
 Experimental test automation framework focused on exploring AI-assisted automation. The framework uses GitHub Copilot and Playwright MCP, includes accessibility and performance audits with Axe and Lighthouse, leverages Playwright’s built-in visual testing
