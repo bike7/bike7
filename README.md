@@ -65,24 +65,24 @@ On paper, automating Salesforce tests sounds like any other web automation proje
 
 ### 🔹 **[gad-tests](https://github.com/bike7/gad-tests)**
 
-Modern Test automation framework for UI and API testing of the GAD application using Playwright and TypeScript. The framework follows Page Object Model and Arrange–Act–Assert patterns, uses fixtures and method chaining for readability. It generates realistic test data with Faker, enforces high code quality through ESLint, Husky and Dotenv and includes a GitHub Actions CI/CD pipeline.
+Modern Test automation framework for UI and API testing of the GAD application using Playwright and TypeScript. The framework follows Page Object Model and Arrange–Act–Assert patterns, uses fixtures and method chaining for readability. It generates realistic test data with Faker, enforces high code quality through ESLint, Prettier, Husky and Dotenv and includes two GitHub Actions CI/CD pipelines. One pipeline provisions the application under test using a prebuilt Docker image including all required services while the second pipeline clones the application source repository, builds it and starts the application as part of the CI workflow.
 
-[![Docker CI](https://github.com/bike7/gad-tests/actions/workflows/gad-tests-docker.yml/badge.svg)](https://github.com/bike7/gad-tests/actions/workflows/gad-tests-docker.yml)
+Tests status: [![Docker CI](https://github.com/bike7/gad-tests/actions/workflows/gad-tests-docker.yml/badge.svg)](https://github.com/bike7/gad-tests/actions/workflows/gad-tests-docker.yml)
 [![Git-based CI](https://github.com/bike7/gad-tests/actions/workflows/gad-tests-clone-app-repo.yml/badge.svg)](https://github.com/bike7/gad-tests/actions/workflows/gad-tests-clone-app-repo.yml)
 
 Link to the report: 🎭[Playwright Report](https://bike7.github.io/gad-tests/)
 
 ### 🔹 **[gad-mcp-copilot](https://github.com/bike7/gad-mcp-copilot)**
 
-Experimental test automation framework focused on exploring AI-assisted automation. The framework uses GitHub Copilot and Playwright MCP, includes accessibility and performance audits with Axe and Lighthouse, leverages Playwright’s built-in visual testing
+Experimental, lightweight test automation framework created to demonstrate AI-assisted testing possibilities using Playwright, Typescript, GitHub Copilot and Playwright MCP. It includes functional tests (smoke, integration, end-to-end) with Allure reporting, as well as non-functional testing such as Playwright visual testing, accessibility audits with Axe and accessibility/performance audits with Google Lighthouse. Detailed and consolidated Axe and Lighthouse reports are generated for all main pages.
 
-[![Functional tests](https://github.com/bike7/gad-mcp-copilot/actions/workflows/functional_workflow.yml/badge.svg)](https://github.com/bike7/gad-mcp-copilot/actions/workflows/functional_workflow.yml)
+Functional tests status:  [![Functional tests](https://github.com/bike7/gad-mcp-copilot/actions/workflows/functional_workflow.yml/badge.svg)](https://github.com/bike7/gad-mcp-copilot/actions/workflows/functional_workflow.yml)
 
 Links to reports:
 🎭[ Playwright report ](https://bike7.github.io/gad-mcp-copilot/playwright/functional)
 📄[ Allure Report ](https://bike7.github.io/gad-mcp-copilot/allure/)
 
-[![Nonfunctional tests](https://github.com/bike7/gad-mcp-copilot/actions/workflows/nonfunctional_workflow.yml/badge.svg)](https://github.com/bike7/gad-mcp-copilot/actions/workflows/nonfunctional_workflow.yml)
+Non-functional tests status: [![Nonfunctional tests](https://github.com/bike7/gad-mcp-copilot/actions/workflows/nonfunctional_workflow.yml/badge.svg)](https://github.com/bike7/gad-mcp-copilot/actions/workflows/nonfunctional_workflow.yml)
 
 Links to reports:
 🎭[ Playwright report ](https://bike7.github.io/gad-mcp-copilot/playwright/nonfunctional)
