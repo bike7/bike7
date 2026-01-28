@@ -1,13 +1,7 @@
 ![Banner](assets/banner.png)
 ## 👋 About Me
 
-I’ve been working in **software testing and automation for over 7 years**.  
-I started with manual testing and now design and maintain **automated testing frameworks**, mainly using **Playwright** and **TypeScript**.  
-
-I enjoy bringing order to chaotic test setups and building automation that genuinely **supports the team**.  
-I’m also interested in **CI/CD integration, security, performance and accessibility testing**.  
-
-I’m looking for a **long-term, fully remote project**.
+I’ve been working in **software testing and automation for over 7 years**.  I started with manual testing and now design and maintain **automated testing frameworks**, mainly using **Playwright** and **TypeScript**.  I enjoy bringing order to chaotic test setups and building automation that genuinely **supports the team**.  I’m also interested in **CI/CD integration, security, performance and accessibility testing**.  I’m looking for a **long-term, fully remote project**.
 
 ---
 
@@ -21,14 +15,7 @@ I’m looking for a **long-term, fully remote project**.
 - Integrate and maintain CI/CD pipelines (Github Actions)
 - Collaborate with international, fully remote teams
 - Advocate for quality as a team responsibility, not just test cases
-
----
-
-## 🌱 Currently growing in
-- Accessibility testing (a11y)
-- Performance testing
-- Security testing
-
+  
 ---
 
 ## 🛠 Tech stack
@@ -45,19 +32,6 @@ I’m looking for a **long-term, fully remote project**.
 - **Test Management:** Xray, TestRail, TestArena, IBM Rational Doors, HP ALM
 - **Methodologies:** Agile, Scrum, SAFe, Waterfall
 - **Languages:** English (professional proficiency), Polish (native proficiency)
-
----
-
-## 📝 My LinkedIn Articles
-
-- [Mastering the ‘Test This!’ Question in QA Interviews](https://www.linkedin.com/pulse/mastering-test-question-qa-interviews-katarzyna-jarosz-3fkpf/?trackingId=eaha4W%2FAQ%2BetEy2JMiD7jg%3D%3D)  
-"Test THIS!" is one of the most popular tasks that appear during a QA job interview. I’ve encountered it personally as well. The “this” can be any object within the recruiter’s view: a pen, a whiteboard eraser, a coffee mug – the possibilities are endless.
-
-- [Why Salesforce Test Automation Is Harder Than It Looks?](https://www.linkedin.com/pulse/why-salesforce-test-automation-harder-than-looks-katarzyna-jarosz-9tawf/?trackingId=eaha4W%2FAQ%2BetEy2JMiD7jg%3D%3D)  
-On paper, automating Salesforce tests sounds like any other web automation project - log in, click through some workflows, verify results. In reality, it’s anything but simple.
-
-- [Neurodiverse Testers: How Different Minds Elevate Software Quality](https://www.linkedin.com/pulse/neurodiverse-testers-how-different-minds-elevate-software-jarosz-vonvf/?trackingId=eaha4W%2FAQ%2BetEy2JMiD7jg%3D%3D)  
- Let’s talk about how neurodiversity transforms IT teams and software testing. When people with different thinking styles collaborate, the outcome is often richer, more innovative, and more resilient than what a uniform team can achieve.
 
 ---
 
@@ -88,6 +62,26 @@ Links to reports:
 🎭[ Playwright report ](https://bike7.github.io/gad-mcp-copilot/playwright/nonfunctional)
 🪓[ Axe Accessibility Report ](https://bike7.github.io/gad-mcp-copilot/accessibility/)
 🗼[ Google Lighthouse Accessibility/Performance Report ](https://bike7.github.io/gad-mcp-copilot/lighthouse/)
+
+---
+
+## 📝 My LinkedIn Articles
+
+- [Mastering the ‘Test This!’ Question in QA Interviews](https://www.linkedin.com/pulse/mastering-test-question-qa-interviews-katarzyna-jarosz-3fkpf/?trackingId=eaha4W%2FAQ%2BetEy2JMiD7jg%3D%3D)  
+"Test THIS!" is one of the most popular tasks that appear during a QA job interview. I’ve encountered it personally as well. The “this” can be any object within the recruiter’s view: a pen, a whiteboard eraser, a coffee mug – the possibilities are endless.
+
+- [Why Salesforce Test Automation Is Harder Than It Looks?](https://www.linkedin.com/pulse/why-salesforce-test-automation-harder-than-looks-katarzyna-jarosz-9tawf/?trackingId=eaha4W%2FAQ%2BetEy2JMiD7jg%3D%3D)  
+On paper, automating Salesforce tests sounds like any other web automation project - log in, click through some workflows, verify results. In reality, it’s anything but simple.
+
+- [Neurodiverse Testers: How Different Minds Elevate Software Quality](https://www.linkedin.com/pulse/neurodiverse-testers-how-different-minds-elevate-software-jarosz-vonvf/?trackingId=eaha4W%2FAQ%2BetEy2JMiD7jg%3D%3D)  
+ Let’s talk about how neurodiversity transforms IT teams and software testing. When people with different thinking styles collaborate, the outcome is often richer, more innovative, and more resilient than what a uniform team can achieve.
+
+---
+
+## 🌱 Currently growing in
+- Accessibility testing (a11y)
+- Performance testing
+- Security testing
 
 ---
 
