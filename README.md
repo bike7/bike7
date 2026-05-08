@@ -1,95 +1,143 @@
-![Banner](assets/banner.png)
-## 👋 About Me
+<div align="center">
 
-I’ve been working in **software testing and automation for over 7 years**.  I started with manual testing and now design and maintain **automated testing frameworks**, mainly using **Playwright** and **TypeScript**.  I enjoy bringing order to chaotic test setups and building automation that genuinely **supports the team**.  I’m also interested in **CI/CD integration, security, performance and accessibility testing**.  I’m looking for a **long-term, fully remote project**.
+```bash
+██████╗ ██╗██╗  ██╗███████╗███████╗
+██╔══██╗██║██║ ██╔╝██╔════╝╚══███╔╝
+██████╔╝██║█████╔╝ █████╗    ███╔╝
+██╔══██╗██║██╔═██╗ ██╔══╝   ███╔╝
+██████╔╝██║██║  ██╗███████╗███████╗
+╚═════╝ ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+```
 
----
+# Katarzyna Jarosz
 
-## 🧪 What I do
-- Perform manual testing and automated testing (UI and API)
-- Migrate legacy automation (e.g. Selenium + Java → Playwright + TypeScript)
-- Create stable, readable and maintainable test suites
-- Build from scratch and refactor existing test automation frameworks
-- Design, develop, maintain modern test automation frameworks
-- Implement test reporting using Allure, Playwright built-in reporter or a tool of your choice
-- Integrate and maintain CI/CD pipelines (Github Actions)
-- Collaborate with international, fully remote teams
-- Advocate for quality as a team responsibility, not just test cases
-  
----
+### Senior Test Automation Engineer · Playwright · TypeScript · CI/CD
 
-## 🛠 Tech stack
-- **Testing:** UI & API automation, E2E, integration, regression, exploration, manual testing
-- **Programming Languages:** Java, TypeScript, JavaScript
-- **UI & API Test Automation:** Playwright, Selenium, AccelQ, Postman, RestAssured, SQL, Swagger
-- **AI & Accessibility:** Github Copilot, Playwright MCP, Axe, Lighthouse
-- **IDE & Code Quality:** VSCode, IntelliJ IDEA, Eclipse, ESLint, Prettier, Husky, Dotenv
-- **Plugins & Tools:** Faker, Jackson, Lombok, Hamcrest, AssertJ, TestNG, jUnit, Maven, Gradle
-- **Version Control:** GIT, GitHub, GitLab, Bitbucket
-- **CI/CD:** Jenkins, TeamCity, GitHub Actions
-- **Reporting & BDD:** Allure, Cucumber, Gherkin
-- **Issue Tracking**: Jira, Confluence, Pivotal Tracker, IBM Rational Change
-- **Test Management:** Xray, TestRail, TestArena, IBM Rational Doors, HP ALM
-- **Methodologies:** Agile, Scrum, SAFe, Waterfall
-- **Languages:** English (professional proficiency), Polish (native proficiency)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Building+automation+that+reduces+chaos;Playwright+%2B+TypeScript+enthusiast;CI%2FCD+and+AI-assisted+testing;Accessibility+%7C+Performance+%7C+Security" />
+
+</div>
 
 ---
 
-## 📌 Selected work
+# terminal.exe
 
-### 🔹 **[gad-tests](https://github.com/bike7/gad-tests)**
+```bash
+> whoami
 
-Modern Test automation framework for UI and API testing of the GAD application using Playwright and TypeScript. The framework follows Page Object Model and Arrange–Act–Assert patterns, uses fixtures and method chaining for readability. It generates realistic test data with Faker, enforces high code quality through ESLint, Prettier, Husky and Dotenv and includes two GitHub Actions CI/CD pipelines. One pipeline provisions the application under test using a prebuilt Docker image including all required services while the second pipeline clones the application source repository, builds it and starts the application as part of the CI workflow.
+Senior Test Automation Engineer with 7+ years of experience.
+Started in manual testing.
+Now building modern Playwright + TypeScript frameworks.
 
-Tests status: [![Docker CI](https://github.com/bike7/gad-tests/actions/workflows/gad-tests-docker.yml/badge.svg)](https://github.com/bike7/gad-tests/actions/workflows/gad-tests-docker.yml)
-[![Git-based CI](https://github.com/bike7/gad-tests/actions/workflows/gad-tests-clone-app-repo.yml/badge.svg)](https://github.com/bike7/gad-tests/actions/workflows/gad-tests-clone-app-repo.yml)
+> focus
 
-Link to the report: 🎭[Playwright Report](https://bike7.github.io/gad-tests/)
-
-### 🔹 **[gad-mcp-copilot](https://github.com/bike7/gad-mcp-copilot)**
-
-Experimental, lightweight test automation framework created to demonstrate AI-assisted testing possibilities using Playwright, Typescript, GitHub Copilot and Playwright MCP. It includes functional tests (smoke, integration, end-to-end) with Allure reporting, as well as non-functional testing such as Playwright visual testing, accessibility audits with Axe and accessibility/performance audits with Google Lighthouse. Detailed and consolidated Axe and Lighthouse reports are generated for all main pages.
-
-Functional tests status:  [![Functional tests](https://github.com/bike7/gad-mcp-copilot/actions/workflows/functional_workflow.yml/badge.svg)](https://github.com/bike7/gad-mcp-copilot/actions/workflows/functional_workflow.yml)
-
-Links to reports:
-🎭[ Playwright report ](https://bike7.github.io/gad-mcp-copilot/playwright/functional)
-📄[ Allure Report ](https://bike7.github.io/gad-mcp-copilot/allure/)
-
-Non-functional tests status: [![Nonfunctional tests](https://github.com/bike7/gad-mcp-copilot/actions/workflows/nonfunctional_workflow.yml/badge.svg)](https://github.com/bike7/gad-mcp-copilot/actions/workflows/nonfunctional_workflow.yml)
-
-Links to reports:
-🎭[ Playwright report ](https://bike7.github.io/gad-mcp-copilot/playwright/nonfunctional)
-🪓[ Axe Accessibility Report ](https://bike7.github.io/gad-mcp-copilot/accessibility/)
-🗼[ Google Lighthouse Accessibility/Performance Report ](https://bike7.github.io/gad-mcp-copilot/lighthouse/)
-
----
-
-## 📝 My LinkedIn Articles
-
-- [Mastering the ‘Test This!’ Question in QA Interviews](https://www.linkedin.com/pulse/mastering-test-question-qa-interviews-katarzyna-jarosz-3fkpf/?trackingId=eaha4W%2FAQ%2BetEy2JMiD7jg%3D%3D)  
-"Test THIS!" is one of the most popular tasks that appear during a QA job interview. I’ve encountered it personally as well. The “this” can be any object within the recruiter’s view: a pen, a whiteboard eraser, a coffee mug – the possibilities are endless.
-
-- [Why Salesforce Test Automation Is Harder Than It Looks?](https://www.linkedin.com/pulse/why-salesforce-test-automation-harder-than-looks-katarzyna-jarosz-9tawf/?trackingId=eaha4W%2FAQ%2BetEy2JMiD7jg%3D%3D)  
-On paper, automating Salesforce tests sounds like any other web automation project - log in, click through some workflows, verify results. In reality, it’s anything but simple.
-
-- [Neurodiverse Testers: How Different Minds Elevate Software Quality](https://www.linkedin.com/pulse/neurodiverse-testers-how-different-minds-elevate-software-jarosz-vonvf/?trackingId=eaha4W%2FAQ%2BetEy2JMiD7jg%3D%3D)  
- Let’s talk about how neurodiversity transforms IT teams and software testing. When people with different thinking styles collaborate, the outcome is often richer, more innovative, and more resilient than what a uniform team can achieve.
-
----
-
-## 🌱 Currently growing in
-- Accessibility testing (a11y)
+- UI & API automation
+- CI/CD pipelines
+- Accessibility testing
 - Performance testing
+- AI-assisted testing
+- Test architecture
+
+> philosophy
+
+Good automation should reduce chaos,
+not create more of it.
+
+> currently_learning
+
 - Security testing
+- AI workflows for QA
+- Advanced accessibility auditing
+
+> status
+
+Running tests...
+```
 
 ---
 
-## 📫 Let’s connect
-- 💼 [linkedin.com/in/k-jarosz/](https://www.linkedin.com/in/k-jarosz/)
-- 📧 k.jarosz.interview@gmail.com |
-- 🌍 Open to long-term, remote projects
+# tech-stack.json
+
+```json
+{
+  "languages": ["TypeScript", "JavaScript", "Java"],
+  "frameworks": ["Playwright", "Selenium"],
+  "api": ["Postman", "RestAssured", "Swagger"],
+  "quality": ["ESLint", "Prettier", "Husky"],
+  "ci_cd": ["GitHub Actions", "Jenkins", "TeamCity"],
+  "reporting": ["Allure", "Playwright Report"],
+  "accessibility": ["Axe", "Lighthouse"],
+  "tools": ["Git", "Docker", "VSCode", "IntelliJ"]
+}
+```
 
 ---
 
-✨ *I believe good automation reduces chaos instead of creating it.*
+# featured-projects/
+
+## gad-tests
+
+Modern Playwright + TypeScript automation framework.
+
+### Highlights
+- UI & API automation
+- Page Object Model
+- Arrange–Act–Assert
+- Docker-based CI environment
+- GitHub Actions pipelines
+- ESLint + Prettier + Husky
+- Faker-generated test data
+
+---
+
+## gad-mcp-copilot
+
+Experimental AI-assisted testing framework.
+
+### Includes
+- Playwright MCP
+- GitHub Copilot workflows
+- Accessibility audits
+- Lighthouse performance analysis
+- Visual testing
+- Consolidated reporting
+
+---
+
+# github-stats.sh
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bike7&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bike7&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000" />
+
+</div>
+
+---
+
+# contribution-map.exe
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/bike7/bike7/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# connect.sh
+
+```bash
+linkedin  -> linkedin.com/in/k-jarosz
+github    -> github.com/bike7
+location  -> Poland
+work_mode -> Remote
+```
+
+---
+
+<div align="center">
+
+### "Breaking apps professionally since 2018"
+
+</div>
