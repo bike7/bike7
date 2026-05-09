@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero2.gif" width="100%" alt="Night Shift: A quiet creative workspace" />
+  <img src="./assets/hero_final.gif" width="100%" alt="Night Shift: A quiet creative workspace" />
 </div>
 
 <br />
