@@ -1,60 +1,71 @@
-const canvas = document.getElementById("bg");
-const ctx = canvas.getContext("2d");
+window.addEventListener("DOMContentLoaded", () => {
+  const canvas = document.getElementById("bg");
 
-canvas.width = window.innerWidth;
-canvas.height = window.innerHeight;
+  if (!canvas) return; // safety guard
 
-const plants = [];
+  const ctx = canvas.getContext("2d");
 
-function rand(min, max) {
-  return Math.random() * (max - min) + min;
-}
+  function resize() {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+  }
 
-// create layered plant field
-for (let i = 0; i < 18; i++) {
-  plants.push({
-    x: rand(0, canvas.width),
-    y: rand(0, canvas.height),
-    scale: rand(0.6, 1.8),
-    sway: rand(0, Math.PI * 2),
-    speed: rand(0.002, 0.01),
-    hue: rand(90, 140)
-  });
-}
+  resize();
+  window.addEventListener("resize", resize);
 
-function drawPlant(p, t) {
-  const sway = Math.sin(t * p.speed + p.sway) * 12;
+  const plants = [];
 
-  ctx.save();
-  ctx.translate(p.x + sway, p.y);
+  function rand(min, max) {
+    return Math.random() * (max - min) + min;
+  }
 
-  ctx.scale(p.scale, p.scale);
+  // create layered plant field
+  for (let i = 0; i < 18; i++) {
+    plants.push({
+      x: rand(0, window.innerWidth),
+      y: rand(0, window.innerHeight),
+      scale: rand(0.6, 1.8),
+      sway: rand(0, Math.PI * 2),
+      speed: rand(0.002, 0.01),
+      hue: rand(90, 140)
+    });
+  }
 
-  // pastel monstera-like leaf shape
-  ctx.fillStyle = `hsl(${p.hue}, 35%, 78%)`;
-  ctx.beginPath();
-  ctx.moveTo(0, 0);
-  ctx.quadraticCurveTo(20, -40, 40, 0);
-  ctx.quadraticCurveTo(20, 40, 0, 0);
-  ctx.fill();
+  function drawPlant(p, t) {
+    const sway = Math.sin(t * p.speed + p.sway) * 12;
 
-  ctx.restore();
-}
+    ctx.save();
+    ctx.translate(p.x + sway, p.y);
+    ctx.scale(p.scale, p.scale);
 
-function animate(t) {
-  ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.fillStyle = `hsl(${p.hue}, 35%, 78%)`;
 
-  // soft pastel gradient background
-  const grad = ctx.createLinearGradient(0, 0, canvas.width, canvas.height);
-  grad.addColorStop(0, "#f5f1ea");
-  grad.addColorStop(1, "#e9efe7");
+    ctx.beginPath();
+    ctx.moveTo(0, 0);
+    ctx.quadraticCurveTo(20, -40, 40, 0);
+    ctx.quadraticCurveTo(20, 40, 0, 0);
+    ctx.fill();
 
-  ctx.fillStyle = grad;
-  ctx.fillRect(0, 0, canvas.width, canvas.height);
+    ctx.restore();
+  }
 
-  plants.forEach(p => drawPlant(p, t));
+  function animate(t) {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+    // soft pastel gradient background
+    const grad = ctx.createLinearGradient(0, 0, canvas.width, canvas.height);
+    grad.addColorStop(0, "#f5f1ea");
+    grad.addColorStop(1, "#e9efe7");
+
+    ctx.fillStyle = grad;
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    for (const p of plants) {
+      drawPlant(p, t);
+    }
+
+    requestAnimationFrame(animate);
+  }
 
   requestAnimationFrame(animate);
-}
-
-animate(0);
+});
