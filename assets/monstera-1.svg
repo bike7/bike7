@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <path fill="#B7C9A8" d="
+    M100 20
+    C120 40, 140 60, 150 90
+    C160 130, 140 170, 100 180
+    C60 170, 40 130, 50 90
+    C60 60, 80 40, 100 20
+    Z"></path>
+
+  <!-- natural holes -->
+  <ellipse cx="90" cy="70" rx="8" ry="15" fill="#F3EFE7"></ellipse>
+  <ellipse cx="120" cy="95" rx="10" ry="18" fill="#F3EFE7"></ellipse>
+  <ellipse cx="85" cy="120" rx="6" ry="12" fill="#F3EFE7"></ellipse>
+</svg>

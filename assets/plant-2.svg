@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- pot -->
+  <path fill="#CBB89D" d="M65 150 L135 150 L125 185 L75 185 Z"></path>
+
+  <!-- stem -->
+  <path d="M100 150 C100 120, 100 90, 100 40" stroke="#6F8F66" stroke-width="5" fill="none"></path>
+
+  <!-- leaves (asymmetric for hand-drawn feel) -->
+  <path d="M100 110 C80 100, 70 85, 85 80 C95 85, 105 95, 100 110" fill="#B3CDA8"></path>
+  <path d="M100 80 C120 70, 130 55, 115 50 C105 55, 95 65, 100 80" fill="#A7C29C"></path>
+</svg>

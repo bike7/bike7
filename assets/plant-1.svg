@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- pot -->
+  <path fill="#D9C2A3" d="M60 140 L140 140 L130 180 L70 180 Z"></path>
+
+  <!-- stems -->
+  <path d="M100 140 C95 110, 90 90, 80 70" stroke="#7C9A6D" stroke-width="4" fill="none"></path>
+  <path d="M100 140 C105 110, 110 90, 120 75" stroke="#7C9A6D" stroke-width="4" fill="none"></path>
+
+  <!-- leaves -->
+  <ellipse cx="80" cy="70" rx="12" ry="6" fill="#A9C3A0"></ellipse>
+  <ellipse cx="120" cy="75" rx="14" ry="7" fill="#A9C3A0"></ellipse>
+</svg>
