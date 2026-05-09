@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/scene/hero.webp" width="100%" alt="Night Shift: A quiet creative workspace at 2:00 AM." />
+  <img src="assets/scene/hero.gif" width="100%" alt="Night Shift: A quiet creative workspace" />
 </div>
 
 <br />
@@ -44,7 +44,7 @@ An experimental project exploring **AI-assisted testing**. This framework integr
 ---
 
 ### 📖 Reflections
-*Thoughts on the craft of software testing.*
+*My thoughts on the craft of software testing.*
 
 * **[Neurodiversity in QA]**: [How Different Minds Elevate Software Quality](https://www.linkedin.com/pulse/neurodiverse-testers-how-different-minds-elevate-software-jarosz-vonvf/)
 * **[Salesforce Testing]**: [Why Salesforce Automation is Harder Than It Looks](https://www.linkedin.com/pulse/why-salesforce-test-automation-harder-than-looks-katarzyna-jarosz-9tawf/)
