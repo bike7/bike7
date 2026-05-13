@@ -17,7 +17,8 @@ I’ve been working in **software testing and automation for over 7 years**.  I 
 
 ## 🧪 Execution Layer
 
-Waht I do:
+What I do:
+
 - Perform manual testing and automated testing (UI and API)
 - Migrate legacy automation (e.g. Selenium + Java → Playwright + TypeScript)
 - Create stable, readable and maintainable test suites
@@ -30,7 +31,7 @@ Waht I do:
   
 ---
 
-### 🛠 The Workbench
+## 🛠 The Workbench
 
 A curated set of tools, environments and practices used in daily testing and automation work:
 
@@ -50,9 +51,9 @@ A curated set of tools, environments and practices used in daily testing and aut
 
 ---
 
-### 📌 Field Notes
+## 📌 Field Notes
 
-_Selected repositories reflecting applied engineering work._
+Selected repositories reflecting applied engineering work.
 
 ### 🔹 **[gad-tests](https://github.com/bike7/gad-tests)**
 
@@ -82,7 +83,9 @@ Links to reports:
 
 ---
 
-### 📝 Reflections in my LinkedIn articles
+## 📝 Reflections
+
+Check out some of my LinkedIn articles:
 
 - [Mastering the ‘Test This!’ Question in QA Interviews](https://www.linkedin.com/pulse/mastering-test-question-qa-interviews-katarzyna-jarosz-3fkpf/?trackingId=eaha4W%2FAQ%2BetEy2JMiD7jg%3D%3D)  
 "Test THIS!" is one of the most popular tasks that appear during a QA job interview. I’ve encountered it personally as well. The “this” can be any object within the recruiter’s view: a pen, a whiteboard eraser, a coffee mug – the possibilities are endless.
@@ -95,7 +98,7 @@ On paper, automating Salesforce tests sounds like any other web automation proje
 
 ---
 
-### 🌱 Currently Growing In
+## 🌱 Currently Growing In
 
 - Accessibility testing (a11y)
 - Performance testing
